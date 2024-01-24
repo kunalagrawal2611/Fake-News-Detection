@@ -1,0 +1,1 @@
+This project contains a trained deep learning model to detect fake news. The code for training is not added in this repository. The model was trained back in 2020 so the results might differ for current news input.
